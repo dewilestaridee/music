@@ -1,0 +1,76 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 420px;
+}
+
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+
+.btn-wrapper {
+    text-align: center;
+    margin: 20px;
+ 
+  }
+  
+  .btn-wrapper p {
+    margin: 10px 0;
+  }
+  
+  .signup {
+    background-color: #239b76;
+  }
+  
+  .instagram {
+    background-color: #55acee;
+    margin-right: 10px;
+  }
+  
+  .twitter {
+    background-color: #55acee;
+  }
+
+
+
+  .btn {
+  padding: 12px 24px;
+  color: darkblue;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+  
+}
+
+.btn:hover {
+  opacity: 1;
+  
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+.ig-thumbnail{
+  width:100px;
+  height: 100px;
+  float: left;
+  overflow: hidden;
+}
+
+.ig-thumbnail img{
+  width: 100px;
+}
+
+
+
